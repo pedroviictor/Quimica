@@ -19,7 +19,7 @@ header div{
 }
 
 body{
-    background-image: url(/assets/oceanopetroleo.jpg);
+    background-image: url("/assets/oceanopetroleo.jpg");
     background-position: bottom;
     background-size: 100% auto;
     background-repeat: no-repeat;
@@ -101,7 +101,7 @@ a{
 }
 
 .refs{
-    background-image: url(/assets/fundo.png);
+    background-image: url("/assets/fundo.png");
     background-size: 10px;
     border: rgba(215,200,190,230);
     border-radius: 0%;
